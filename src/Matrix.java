@@ -1,6 +1,6 @@
 /*
 Post-Coding Note:
-This was my first major coding project, one which I submitted for my Computer Science I final. I had sought out to create
+This was my first major coding project, one which I submitted for an ungraded Computer Science I project. I had sought out to create
 an algorithm that solves a system of equations using matrix row reduction. While it worked in some cases, it failed
 often due to its pivoting procedure, as the multi-dimensional sorting algorithm did not use recursion and as such it was
 unable to view the other values in a row beyond the first two. An updated version of this project can be found under
